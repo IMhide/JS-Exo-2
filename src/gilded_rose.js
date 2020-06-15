@@ -12,9 +12,9 @@ class Shop {
   }
 
   updateQuality() {
-    return items 
-    });
+    return this.items 
   }
+}
 
 module.exports = {
   Item,
